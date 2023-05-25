@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **knexguy101/knexguy101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Howdy 👋
+Started programming back in high school and now I am here. I like cooking, coding, and cars.
+<br/><br/>
+### Public Projects 🏄‍♂️
+<a href="https://www.studyhero.ai/"><img src="https://uploads-ssl.webflow.com/63906b0c726deee0b4fb42d4/6468fed48f3547cae9891227_Frame%2092.svg"  width="20%" height="30%"></a> <br/>
+<a href="https://www.kpx.ai/"><img src="https://www.kpx.ai/_next/image?url=%2Fassets%2Fimages%2Fkpxlogo.png&w=256&q=75"  width="20%" height="30%"></a>
+<br/>
+### Contact 📱
+Discord: knexguy#0001 <br/>
+Twitter: @knexguy101
